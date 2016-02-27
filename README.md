@@ -66,7 +66,7 @@ Once you finish the configuration, in the root folder of your application fire t
 
 Your handler is invoked and the result is printed to the screen.
 
-See [https://github.com/cagataygurturk/aws-lambda-java-boilerplate](https://github.com/cagataygurturk/aws-lambda-java-boilerplate) project for a real implementation.
+See [aws-lambda-java-boilerplate](https://github.com/cagataygurturk/aws-lambda-java-boilerplate) project for a real implementation.
 
 ## Contribution
 
