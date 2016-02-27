@@ -62,7 +62,7 @@ In case of your handler function implements a `public String getExampleEvent()` 
 
 Once you finish the configuration, in the root folder of your application fire this command:
 
-    mvn exec:java
+    mvn compile exec:java
 
 Your handler is invoked and the result is printed to the screen.
 
