@@ -17,7 +17,7 @@ And add the dependency as a provided dependency:
 
         <dependency>
             <groupId>com.cagataygurturk</groupId>
-            <artifactId>aws-lambda-local-run</artifactId>
+            <artifactId>aws-lambda-local-runner</artifactId>
             <version>0.0.1</version>
             <!--
             Scope: provided makes this dependency to be excluded from deployment package
